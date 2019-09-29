@@ -57,7 +57,7 @@
 					</to>
 					<container>
 						<ports>
-							<port>9099:9099</port>
+							<port>9909</port>
 						</ports>
 					</container>
 				</configuration>
