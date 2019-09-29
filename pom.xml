@@ -56,7 +56,9 @@
 						<image>192.168.0.51:5043/gnu/deploy-test</image>
 					</to>
 					<container>
-						<ports>9099:9099</ports>
+						<ports>
+							<port>9099:9099</port>
+						</ports>
 					</container>
 				</configuration>
 			</plugin>
